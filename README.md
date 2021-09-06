@@ -1,1 +1,1 @@
-{"open": 0, "url": "https:\/\/lego9.tv"}
+{"open": 1, "url": "https:\/\/lego9.tv"}
